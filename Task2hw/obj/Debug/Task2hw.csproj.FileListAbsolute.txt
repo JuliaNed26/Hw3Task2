@@ -1,0 +1,10 @@
+C:\Users\nedav\source\repos\Task2hw\Task2hw\bin\Debug\Task2hw.exe.config
+C:\Users\nedav\source\repos\Task2hw\Task2hw\bin\Debug\Task2hw.exe
+C:\Users\nedav\source\repos\Task2hw\Task2hw\bin\Debug\Task2hw.pdb
+C:\Users\nedav\source\repos\Task2hw\Task2hw\obj\Debug\Task2hw.csprojAssemblyReference.cache
+C:\Users\nedav\source\repos\Task2hw\Task2hw\obj\Debug\Task2hw.Form1.resources
+C:\Users\nedav\source\repos\Task2hw\Task2hw\obj\Debug\Task2hw.Properties.Resources.resources
+C:\Users\nedav\source\repos\Task2hw\Task2hw\obj\Debug\Task2hw.csproj.GenerateResource.cache
+C:\Users\nedav\source\repos\Task2hw\Task2hw\obj\Debug\Task2hw.csproj.CoreCompileInputs.cache
+C:\Users\nedav\source\repos\Task2hw\Task2hw\obj\Debug\Task2hw.exe
+C:\Users\nedav\source\repos\Task2hw\Task2hw\obj\Debug\Task2hw.pdb
